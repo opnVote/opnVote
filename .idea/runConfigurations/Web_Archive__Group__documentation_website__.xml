@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Web Archive (Group 'documentation/website')" type="StardustRunConfiguration" factoryName="save-as-zip">
+    <option name="folderPath" value="$PROJECT_DIR$" />
+    <option name="group" value="true" />
+    <option name="instanceId" value="website" />
+    <option name="instanceName" value="website" />
+    <option name="moduleName" value="documentation" />
+    <method v="2" />
+  </configuration>
+</component>

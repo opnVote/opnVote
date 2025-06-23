@@ -1,0 +1,1 @@
+Machine and User Interface that is exposed for the user to vote

@@ -1,0 +1,1 @@
+The kiosk is responsible for generating the anonymous one-time-tokens used at the vote machine to authenticate/sign the vote

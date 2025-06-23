@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables>
+        <primary-color>blueberry</primary-color>
+        <color-preset>soft</color-preset>
+        <link-color>frozen</link-color>
+
+        <contribute-url>https://github.com/opnVote/opnVote/blob/master/documentation/</contribute-url>
+        <custom-css>custom.css</custom-css>
+    </variables>
+
+    <footer>
+        <copyright>2025 opnVote</copyright>
+        <social type="github" href="https://github.com/opnVote" />
+        <social type="mastodon" href="https://cyberplace.social/@opnvote" />
+    </footer>
+
+    <build-profile instance="guide">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+
+    <build-profile instance="homepage">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+</buildprofiles>

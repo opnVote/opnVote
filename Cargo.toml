@@ -1,0 +1,13 @@
+license = "AGPL-3.0-or-later"
+
+[workspace]
+members = [
+    "opnvote-common",
+    "opnvote-kiosk",
+    "opnvote-backbone",
+    "opnvote-vote-controller",
+    "opnvote-vote-machine",
+
+    "tooling"
+]
+resolver = "3"

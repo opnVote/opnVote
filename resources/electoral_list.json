@@ -1,0 +1,11 @@
+{
+  "parties": [
+    {"id": 1, "name": "FSV"},
+    {"id": 2, "name": "DSV"}
+  ],
+  "candidates": [
+    {"id": 1, "name": "Sophie Schurr", "party_id": 1},
+    {"id": 2, "name": "Cristopher Kropp", "party_id": 2},
+    {"id": 3, "name": "Colin Klein", "party_id": 1}
+  ]
+}

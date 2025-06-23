@@ -1,0 +1,1 @@
+responsible for the management of a set of vote-machines/other vote-controllers, and signing on class/gradle level, sent to the master control server.

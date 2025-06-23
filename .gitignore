@@ -1,0 +1,7 @@
+# Cargo output
+/target
+*/target
+
+# Writerside output
+report.html
+webHelpWEBSITE2-all.zip

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE build-groups SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-groups.dtd">
+<build-groups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-groups.xsd">
+
+    <build-group name="website">
+        <instance instance-id="homepage" alias="Homepage" path="/" />
+        <instance instance-id="guide" alias="Guide" path="/guide" />
+    </build-group>
+</build-groups>

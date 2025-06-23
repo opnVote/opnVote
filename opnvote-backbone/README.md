@@ -1,0 +1,1 @@
+master control server that is responsible for tallying and tending to the vote controllers
